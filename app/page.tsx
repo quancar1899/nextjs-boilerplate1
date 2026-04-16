@@ -37,7 +37,7 @@ export default function Home() {
       name: 'Rolls-Royce Phantom VIII',
       price: '45.000.000.000 đ',
       specs: 'Sản xuất 2021 | ODO: 8,000 km | Bespoke',
-      image: 'https://images.unsplash.com/photo-1631815589968-fdb09a223b1e?q=80&w=800&auto=format&fit=crop',
+      image: 'https://scontent.fhan19-1.fna.fbcdn.net/v/t39.30808-6/672076322_1958034848169870_6129856746619548193_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeHa4lMN0IVb8WhphLMJHEMhk8OOoSEpuqqTw46hISm6qviE0AIt5JjwXmRV3m0Y_9MEXLJt26LK3mMVGhLwlRG6&_nc_ohc=6z0qIKWgZeUQ7kNvwEMQKXN&_nc_oc=Adr_hv8_pDymyZv6e3e2kaTKjt_cosqOSgzZxK4TN4HTC1PByJ1EigckkuooCHo1tnAYQtaXOdv6ntmE1d7pqxMh&_nc_zt=23&_nc_ht=scontent.fhan19-1.fna&_nc_gid=ta5sXesiCSx90tOXZqKzHA&_nc_ss=7a3a8&oh=00_Af3chcI0UEwOMqbDue9US5FSlBSqJRSI_JeKiszukb2ZAA&oe=69E6ADC3',
     },
     {
       id: 3,
